@@ -16,11 +16,18 @@ padding: 20px 0px 20px 0px;
 .jumbotron{
 padding: 70px 30px 70px 30px;
 margin: 0px auto;
-background:blue;
+background:green;
 color: azure;
 }
 .address{
     font-size: 80%;
     margin: 0px;
     color:white;
+}
+body{
+padding: 50px 0px 0px 0px;
+z-index:0;
+}
+.navbar-dark{
+    background-color: #512DA8;
 }
